@@ -23,4 +23,3 @@
 .EXAMPLE
     .\sysmonlogger.ps1
 
-    This example runs the sysmonlogger.ps1 script to capture and analyze Sysmon logs during the malware sandboxing process.
